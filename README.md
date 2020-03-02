@@ -33,6 +33,6 @@ Tap on a restaurant name to see more information about it. You can also return t
 
 - I utilized [JieHeng's Yelp Fusion API client library](https://github.com/JieHeng/yelp-fusion-android) for making the API calls in this project. This choice was made because this provided a clean and readable way to make API calls using the Yelp Fusion API. 
 
-- Due to the time constraints and this being my first time working with Kotlin, I am aware that the application is not perfect with regards to the grid display and asynchronousy of the results returned. 
+- Due to the time constraints and this being my first time working with Kotlin, I am aware that the application is not perfect with regards to the grid display and asynchronousy of the results returned (sometimes you need to tap outside or backspace before the results show).  
 
 - Due to the nature of this application being part of an assessment, I made the UI very simple so I could focus on other aspects such as documentation and overall cleanliness. 
